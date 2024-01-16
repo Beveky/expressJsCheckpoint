@@ -1,0 +1,13 @@
+.title {
+  color: red;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 300px;
+}
+li {
+  list-style: none;
+}
